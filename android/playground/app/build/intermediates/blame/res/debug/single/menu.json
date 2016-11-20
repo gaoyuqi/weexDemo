@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/menmen/CodeProject/Weex/WeexDemo/android/playground/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/menmen/CodeProject/Weex/WeexDemo/android/playground/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/menmen/CodeProject/Weex/WeexDemo/android/playground/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/Users/menmen/CodeProject/Weex/WeexDemo/android/playground/app/src/main/res/menu/main_scan.xml"
+    }
+]
